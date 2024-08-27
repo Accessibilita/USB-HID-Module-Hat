@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "7a365fb6-1dd8-43ea-8a20-c9629cb4a9c4")
+	(uuid "b71ba898-c1ec-4e03-97f0-88569bb6d25f")
 	(paper "A4")
 	(lib_symbols
 		(symbol "AVR-KiCAD-Lib-Capacitors:C0805C103KCRACAUTO"
@@ -10475,6 +10475,18 @@
 			(justify left bottom)
 		)
 		(uuid "ce0ddd39-e72a-4b0c-99bb-a109b35b0463")
+	)
+	(hierarchical_label "5V_PG"
+		(shape input)
+		(at 129.54 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7a34447e-f0d9-4b9b-8845-5fdfb1df632d")
 	)
 	(symbol
 		(lib_id "AVR-KiCAD-Lib-Capacitors:CL10B104JB8NNNC")
