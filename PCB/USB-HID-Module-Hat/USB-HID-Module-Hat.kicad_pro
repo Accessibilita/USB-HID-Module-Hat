@@ -578,6 +578,14 @@
     [
       "0c9c87df-0f13-4f9d-9e93-2fbfb137c5e4",
       "Root"
+    ],
+    [
+      "c51127e9-f452-484c-9781-e15c1373fb4a",
+      "RS485"
+    ],
+    [
+      "c8f5ff9c-d19f-4184-9c49-6289dac348c4",
+      "Power"
     ]
   ],
   "text_variables": {}
